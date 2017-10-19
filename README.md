@@ -2,9 +2,9 @@
 Generates a random robots.txt deny list to throw script kiddies off the scent.
 
 ## Requirements   
-#### OS   
+### OS   
 OSX or Ubuntu   
-#### SOFTWARE   
+### SOFTWARE   
 Python 3.6+   
 Check that /usr/share/dict/words exists for your os and `shuf` or `gshuf` commands work.   
 If not, in ubuntu install `sudo apt install wamerican coreutils` or in OSX `brew install coreutils`
