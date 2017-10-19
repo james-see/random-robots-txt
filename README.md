@@ -1,11 +1,9 @@
 # random-robots-txt
 Generates a random robots.txt deny list to throw script kiddies off the scent.
 
-## Requirements
-
+## Requirements   
 #### OS   
-OSX or Ubuntu
-
+OSX or Ubuntu   
 #### SOFTWARE   
 Python 3.6+   
 Check that /usr/share/dict/words exists for your os and `shuf` or `gshuf` commands work.   
